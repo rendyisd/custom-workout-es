@@ -1,5 +1,5 @@
 #### Description
-An expert system to provide a workout plan based on the user needs. Created to fulfill Expert System class final assignment and made on a tight schedule, approx. 2-3 days.
+An expert system to provide a workout plan based on the user needs. Created to fulfill Expert System class final assignment and was made on a tight schedule, approx. 2-3 days.
 
 #### Required Library
 1. CustomTkinter
