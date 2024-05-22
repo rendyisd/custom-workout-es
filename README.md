@@ -5,7 +5,7 @@ An expert system to provide a workout plan based on the user needs. Created to f
 1. CustomTkinter
 2. Pillow
 
-#### Program screenshots
+#### Program Screenshots
 ![Alt text](assets/readme_img/ss1.png)
 ![Alt text](assets/readme_img/ss2.png)
 ![Alt text](assets/readme_img/ss3.png)
